@@ -6,7 +6,7 @@ This source IS NOT COMPLETED.
 
 NOTE: This is not meant to be used in any other games but RewindBlox. Some things are going to be loaded remotely, meaning this will not work without recreating them.
 
-CLIENT STUFF:
+CLIENT STUFF:  
 2008 - completed  
 2009 - completed  
 2010 - completed  
