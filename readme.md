@@ -7,13 +7,13 @@ This source IS NOT COMPLETED.
 NOTE: This is not meant to be used in any other games but RewindBlox. Some things are going to be loaded remotely, meaning this will not work without recreating them.
 
 CLIENT STUFF:
-2008 - completed
-2009 - completed
-2010 - completed
-2011 - in progress
-2012 - in progress
-2013 - not started
-2014 - not started
+2008 - completed  
+2009 - completed  
+2010 - completed  
+2011 - in progress  
+2012 - in progress  
+2013 - not started  
+2014 - not started  
 
 More clients are subject to be added.
 
