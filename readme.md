@@ -17,8 +17,8 @@ CLIENT STUFF:
 
 More clients are subject to be added.
 
-FEATURES:
-Character customization - not started
-In game friends - not started
-(unlikely due to exploiting) Recreation of automatic client server replication before filtering enabled was added - not started, likely never
-Custom place loading for studio - not started
+FEATURES:  
+Character customization - not started  
+In game friends - not started  
+(unlikely due to exploiting) Recreation of automatic client server replication before filtering enabled was added - not started, likely never  
+Custom place loading for studio - not started  
