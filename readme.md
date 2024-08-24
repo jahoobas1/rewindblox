@@ -11,9 +11,9 @@ CLIENT STUFF:
 2008 - completed  
 2009 - completed  
 2010 - completed  
-2011 - mostly completed  
-2012 - mostly completed    
-2013 - mostly completed   
+2011 - mostly completed, just roblox being annoying  
+2012 - completed    
+2013 - completed   
 2014 - not started  
 
 More clients are subject to be added.
