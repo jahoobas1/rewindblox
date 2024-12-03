@@ -1,0 +1,1 @@
+Contains prompts for Super Safe Chat. General location for most modules.
