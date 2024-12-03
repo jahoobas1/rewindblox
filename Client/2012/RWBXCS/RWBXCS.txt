@@ -1,1 +1,1 @@
-Contains essential core client scripts for 2013E.
+Contains essential core client scripts for 2012M.

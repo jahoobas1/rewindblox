@@ -1,1 +1,1 @@
-Contains character related scripts for 2013E.
+Contains character related scripts for 2012M.
