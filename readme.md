@@ -1,6 +1,6 @@
 # REWINDBLOX V3
 
-#This is the deprecated repository. No changes will be made here anymore.
+# This is the deprecated repository. No changes will be made here anymore.
 
 RewindBlox is an Old Roblox Simulation spanning from mid 2008 to late 2014.
 
