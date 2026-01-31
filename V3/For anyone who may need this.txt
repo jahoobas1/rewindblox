@@ -1,18 +1,3 @@
 THIS is REWINDBLOX V3
 
 This is not how the game is officially organized.
-Some used code is not in this repository. If it is not, it should absolutely never change unless Jahoobas changes it.
-
-Updates will happen weekly. Jahoobas will take the code from this Repo and release it under the RewindBlox game.
-Nobody gets access to the RewindBlox game file.
-No offense to any of you if you're reading this; I just don't trust people very well.
-
-If you are a developer and need to organize this correctly, ask @jahoobas on Discord for a guide.
-
-If you leak the official version of this repo, you will be removed from the development team.
-I have the full copyright of all of this code. By developing for JDF, all code written for any of it's projects are our property.
-
-I can, and will file DMCA takedowns against all places this is spread to.
-
-If any RewindBlox code is given out by JDF, this code is now in the free domain and will not be updated.
-If that is to happen, you will be told.
